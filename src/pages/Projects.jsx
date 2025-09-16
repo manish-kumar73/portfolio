@@ -13,7 +13,7 @@ const projects = [
     title: 'Portfolio Website',
     description: 'Personal portfolio built with React and Tailwind showcasing skills, projects, and contact form.',
     image: 'https://image2url.com/images/1757351516002-6d487cc9-30b2-49ac-b955-515b5c3fb703.png',
-    link: 'http://localhost:5173/',
+    link: 'https://deluxe-clafoutis-1e575c.netlify.app/',
     isCompleted: true,
   },
   {
