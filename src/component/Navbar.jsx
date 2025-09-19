@@ -3,7 +3,7 @@ import { Link as ScrollLink } from "react-scroll";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
-  const [isDark, setIsDark] = useState(false);
+  const [isDark, setIsDark] = useState(true);
 
   const linkProps = {
     smooth: true,
